@@ -2,7 +2,7 @@
 # AI-Driven Predictive Maintenance Risk Engine
 
 ## System Architecture
-![System Architecture](assets/AI-Driven_Predictive.png)
+![System Architecture](assets/ai_predictive_maintenance_risk_engine.png)
 
 ## Overview
 A decision-centric AI system for industrial predictive maintenance integrating:
